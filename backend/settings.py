@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-nrb-_xik&x^smkvqorw#r82v#jufq_(2r6o7z42&chbk#vx_ke
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['notes-frontent.herokuapp.com', '172.0.0.1']
+ALLOWED_HOSTS = ['notes-app-b.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
